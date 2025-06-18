@@ -1,7 +1,5 @@
 # 🔦 Real-Time Bright Spot Detection (Active Headlights Emulator)
 
-A real-time bright spot detection system built in under 6 hours, inspired by a 4:30am drive in a Tesla and a conversation about adaptive high beams.
-
 This Python + OpenCV project simulates how adaptive headlights decide to dim when they detect oncoming cars using no deep learning, just slicing and adaptive thresholding. The system processes webcam video, detects bright spots below a certain horizon line (e.g. where headlights appear), and dynamically draws bounding boxes around them.
 
 ## ✨ Features
