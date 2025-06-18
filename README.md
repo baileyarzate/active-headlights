@@ -14,7 +14,7 @@ This Python + OpenCV project simulates how adaptive headlights decide to dim whe
 ## 📹 Demo
 A live demo showing a phone flashlight being detected in real time will be shown here.
 
-- (gif to be embedded here)
+- ![Demo](images/ActiveHeadlightsDemo_1.gif)
 
 ## 🧰 How to Run
 
