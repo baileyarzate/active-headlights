@@ -20,8 +20,8 @@ A live demo showing a phone flashlight being detected in real time will be shown
 
 1.  **Clone the repository:**
     ```bash
-    git clone __REPO__
-    cd __REPO__
+    git clone https://github.com/baileyarzate/active-headlights.git
+    cd active-headlights
     ```
 2.  **Create and activate a fresh environment (optional):**
 
