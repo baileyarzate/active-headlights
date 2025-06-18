@@ -52,6 +52,9 @@ I could’ve used YOLO or fine-tuned a detection model, but:
 - I did have a working brain, a webcam, and some time 😄
 This is a reminder that traditional computer vision can still go a long way.
 
+## 🐛 Known Bug(s)
+- When given two light sources on the ends of the image, it detects only one most of the time. 
+
 ## 🚘 Origin Story
 While driving my Tesla to the airport with my wife being sleep-deprived and observant, we noticed how the high beams intelligently turned off sections in certain conditions. We discussed whether Tesla used deep learning or traditional computer vision to handle this.
 
